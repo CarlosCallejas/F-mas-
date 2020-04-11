@@ -1,0 +1,8 @@
+﻿  TenerFMasBasesDeDatos.cpp
+c:\users\nesto\source\repos\tenerfmasbasesdedatos\tenerfmasbasesdedatos\tenerfmasbasesdedatos.cpp(8): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+c:\users\nesto\source\repos\tenerfmasbasesdedatos\tenerfmasbasesdedatos\tenerfmasbasesdedatos.cpp(60): warning C4018: '<': no coinciden signed/unsigned
+c:\users\nesto\source\repos\tenerfmasbasesdedatos\tenerfmasbasesdedatos\tenerfmasbasesdedatos.cpp(62): warning C4018: '<': no coinciden signed/unsigned
+c:\users\nesto\source\repos\tenerfmasbasesdedatos\tenerfmasbasesdedatos\tenerfmasbasesdedatos.cpp(71): warning C4018: '<': no coinciden signed/unsigned
+c:\users\nesto\source\repos\tenerfmasbasesdedatos\tenerfmasbasesdedatos\tenerfmasbasesdedatos.cpp(82): warning C4018: '<': no coinciden signed/unsigned
+c:\users\nesto\source\repos\tenerfmasbasesdedatos\tenerfmasbasesdedatos\tenerfmasbasesdedatos.cpp(100): warning C4018: '<': no coinciden signed/unsigned
+  TenerFMasBasesDeDatos.vcxproj -> C:\Users\nesto\source\repos\TenerFMasBasesDeDatos\Debug\TenerFMasBasesDeDatos.exe
